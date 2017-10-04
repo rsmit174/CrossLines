@@ -1,0 +1,175 @@
+﻿header{
+    background-image: url(Images/CL-Logo.jpg);
+    background-repeat: no-repeat;
+    background-position-y:center;
+
+    background-color:rgba(0, 0, 0, 0.8);
+    margin:auto;
+    text-align:center;
+    left:0;
+    right:0;
+   top:0;
+    position:absolute;
+    color:white;
+    text-transform: uppercase;
+}
+h3{
+    background-size:300px 300px;
+}
+h3 a{
+    text-decoration: none;
+    background-size:300px 300px;
+}
+h3 a:link 
+	{ 
+		color: #4876FF;
+	}	
+h3 a:visited 
+	{
+		color: #91602f;
+	}		
+h3 a:hover 
+	{
+		color: #FFFFFF;
+        background-color:#91a811;
+        background-size:300px 300px;
+	}
+
+body {
+    background-image: url(Images/tile.jpg);
+	background-repeat: repeat;
+	height: 100%;
+	background-attachment: fixed;
+    font-family: Lato, Arial, sans-serif;
+    margin-top:200px;
+}
+h1{
+    color:#FFFFFF;
+}
+h2, h3 {
+    text-align: center;
+    color:#249424;
+}
+
+div #HomePageButtons1{
+   position:center;
+    text-align: center;
+
+}
+
+div #HomePageButtons2{
+   position:center;
+    text-align: center;
+
+}
+
+div #HomePageButtons3{
+  position:center;
+    text-align: center;
+ 
+}
+
+/*div #HomePageButtons4 {
+    position: center;
+    text-align: center;
+}*/
+
+.left {
+    font-size: 22px;
+    width: 30%;
+    float: left;
+    text-align: right;
+    margin-right: 2%;
+}
+.leftSecondColumn{
+        font-size: 22px;
+    width: 16%;
+    float: left;
+    text-align: right;
+    margin-right: 2%;
+}
+.right {
+    width: 40%;
+    float:left;
+}
+
+.rightSmall {
+    width: 15%;
+    float:left;
+}
+
+.AppForm2_Col {
+    width: 8%;
+    text-align: left;
+}
+
+/* For appointment controls */
+
+div #takenAppts
+{
+    float: right;
+}
+
+div #currentFamily
+{
+    float: left;
+}
+
+div #timeSelect{
+    text-align: center;
+    width: 495px;    
+    margin: 0 auto;
+}
+
+#Calendar1{
+    display:block;    
+}
+
+/*Gridview Styles*/
+
+.GridViewStyle {
+    align-self: center;
+}
+
+.GridViewFooterStyle {
+    background-color: #FFFFCC; color: #330099;
+}
+
+.GridViewHeaderStyle {
+    background-color: #990000;
+    font-weight: bold; 
+    color: #FFFFCC;
+}
+
+.GridViewPagerStyle {
+    background-color: #FFFFCC; 
+    color: #330099; 
+    align-self: center;
+}
+
+.GridViewRowStyle {
+    background-color: white;
+    color: #330099;
+}
+
+.GridViewSelectedRowStyle {
+    background-color: #FFCC66; 
+    font-weight: bold; 
+    color: #663399;
+}
+
+.GridViewSortedAscendingCellStyle {
+    background-color: #FEFCEB;
+}
+
+.GridViewSortedAscendingHeaderStyle {
+    background-color: #AF0101;
+}
+
+.GridViewSortedDescendingCellStyle {
+    background-color: #F6F0C0;
+}
+
+.GridViewSortedDescendingHeaderStyle {
+    background-color: #7E0000;
+}

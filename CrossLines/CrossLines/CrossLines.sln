@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Website1(1)", "Website1", "{4DED27EC-158A-4741-8003-675C5F65A38C}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "SAK"
+		SccAuxPath = "SAK"
+		SccLocalPath = "SAK"
+		SccProvider = "SAK"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51087"
+		Debug.AspNetCompiler.PhysicalPath = "Website1\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51087\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51087"
+		Release.AspNetCompiler.PhysicalPath = "Website1\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51087\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51087"
+		SlnRelativePath = "Website1\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DED27EC-158A-4741-8003-675C5F65A38C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DED27EC-158A-4741-8003-675C5F65A38C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://slackersteamalpha.visualstudio.com/
+		SccLocalPath0 = .
+		SccWebProject1 = true
+		SccProjectUniqueName1 = Website1
+		SccProjectName1 = ../../Desktop/Website1
+		SccLocalPath1 = C:\\Users\\David\\Documents\\Visual\u0020Studio\u00202015\\Projects\\Website1\\
+		SccProjectEnlistmentChoice1 = 2
+	EndGlobalSection
+EndGlobal
